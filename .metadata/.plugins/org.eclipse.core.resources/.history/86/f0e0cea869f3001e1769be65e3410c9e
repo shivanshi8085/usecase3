@@ -1,0 +1,22 @@
+<html>
+<body>
+<center>
+
+<h2><font color="Red">Welcome to Rays</font></h2>
+
+<!-- <a href="EmployeListCtl"><b><font color="blue">EmployeList</font></b></a>
+
+
+<a href="EmployeCtl"><b><font color="Darkblue">Add Employe</font></b></a> -->
+
+<a href="ProgressListCtl"><b><font color="brown">ProgressList</font></b></a>
+
+
+<a href="ProgressCtl"><b><font color="Darkbrown">Add Progress</font></b></a>
+
+
+
+</center>
+
+</body>
+</html>

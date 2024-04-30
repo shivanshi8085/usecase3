@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\dipan\Desktop\Usecase3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3654375264.index
+\proj3\src\main\resources
+C:\Users\dipan\Desktop\Usecase3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2752940622.index
+\project3\src\main\resources
